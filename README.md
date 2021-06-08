@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Christian Mitteldorf from Denmark, 28 years old.
+I'm Christian Mitteldorf from Denmark, 29 years old, and based in Sydney, Australia now.
 
 My passion is building great mobile apps for the Apple platforms, and have been doing so in Objective-C and Swift for 7 years now.
 
-🔭 Currently I am working as an iOS Engineer at [MobilePay](https://mobilepay.dk), which is one of the biggest apps in Denmark. It allows over 5 million users in Denmark and Finland to do mobile P2P payments, recurring payments, as well as single payments in shops, brick and online.
+🔭 I am working from Sydney, currently as a contractor. Reach out if you'd like to talk.
 
 🌱 I'm the creator of [Stokki](https://stokki.app): an app for Apple-devices that help you keep track of your stock portfolio and results.
 Stokki is using my open-source Swift-package [FinanceKit](https://github.com/christiankm/FinanceKit), a framework with tons of models and calculations for working with money, stocks, investing and finance.

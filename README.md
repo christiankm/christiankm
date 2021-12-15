@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Christian Mitteldorf from Denmark, 29 years old, and based in Sydney, Australia now.
+I'm Christian Mitteldorf from Denmark, 30 years old, and based in Sydney, Australia now.
 
-My passion is building great mobile apps for the Apple platforms, and have been doing so in Objective-C and Swift for 7 years now.
+My passion is building great mobile apps for the Apple platforms, and have been doing so in Objective-C and Swift since 2013.
 
 🔭 I am working from Sydney, currently as a contractor. Reach out if you'd like to talk.
 
